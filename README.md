@@ -1,9 +1,41 @@
 <h1>Hi! I'm Mafe <img src="https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85.png" width="30px"></h1> 
 
+<img align="right" height="185" src="https://user-images.githubusercontent.com/74038190/216649421-9e9387cc-b2d3-4375-97e2-f4c43373d3ae.gif"  />
+
+Hola, soy Maria, una estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)**. Actualmente, estoy aprendiendo y explorando el mundo de la programación. 💻📱🎨
+
+- 📚 **Formación**:
+  - **Técnico en Diseño e Integración Multimedia**
+  - Actualmente cursando **Desarrollo de Aplicaciones Multiplataforma (DAM)**.
+  
+- 🔧 **Tecnologías que estoy aprendiendo**:
+  - Lenguajes de programación: **Java**, **C**, **HTML/CSS**, **Python**.
+  - Herramientas: **Git**, **GitHub**, **Visual Studio Code**.
+
 </br>
 
 # 💻 Tech Stack
 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gcc/gcc-original.svg" height="50" alt="gcc logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sdl/sdl-original.svg" height="50" alt="sdl logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="45" alt="wordpress logo"  />
+  <img width="12" />
+</div>
 
 </br>
 
@@ -13,6 +45,7 @@
 ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-%23FF7F00.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-%23FFFF00.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-%2300FF00.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%230000FF.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![GIMP](https://img.shields.io/badge/Gimp-%234B0082?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
 
 </br>
