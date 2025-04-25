@@ -2,19 +2,19 @@
 
 <img align="right" height="185" src="https://user-images.githubusercontent.com/74038190/216649421-9e9387cc-b2d3-4375-97e2-f4c43373d3ae.gif"  />
 
-Hola, soy Maria, una estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)**. Actualmente, estoy aprendiendo y explorando el mundo de la programación. 💻📱🎨
+Hola, soy Maria, una estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)**. Actualmente, estoy aprendiendo y explorando el mundo de la programación.
 
-- 📚 **Formación**:
+- **Formación**:
   - **Técnico en Diseño e Integración Multimedia**
   - Actualmente cursando **Desarrollo de Aplicaciones Multiplataforma (DAM)**.
   
-- 🔧 **Tecnologías que estoy aprendiendo**:
+- **Tecnologías que estoy aprendiendo**:
   - Lenguajes de programación: **Java**, **C**, **HTML/CSS**, **Python**.
   - Herramientas: **Git**, **GitHub**, **Visual Studio Code**.
 
 </br>
 
-# 💻 Tech Stack
+# Tech Stack
 
   ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
