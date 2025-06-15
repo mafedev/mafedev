@@ -1,26 +1,27 @@
-# Hi! I'm Mafe <img src="https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85.png" width="30px">
+# Hi there! <img src="https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85.png" width="30px">
 
-<img align="right" height="185" src="https://user-images.githubusercontent.com/74038190/216649421-9e9387cc-b2d3-4375-97e2-f4c43373d3ae.gif"  />
+<img align="right" height="185" src="https://user-images.githubusercontent.com/74038190/216649421-9e9387cc-b2d3-4375-97e2-f4c43373d3ae.gif" />
 
-Hola, soy Fernanda, una estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)**. Actualmente, estoy aprendiendo y explorando el mundo de la programación.
+Hi, I'm Fernanda, a student of **Multiplatform Application Development (DAM)**.  
+I'm currently learning and exploring the world of programming.
 
-- **Formación**:
-  - **Técnico en Diseño e Integración Multimedia**
-  - Actualmente cursando **Desarrollo de Aplicaciones Multiplataforma (DAM)**.
-  
-- **Tecnologías que estoy aprendiendo**:
-  - Lenguajes de programación: **Java**, **C**, **HTML/CSS**, **Python**.
-  - Herramientas: **Git**, **GitHub**, **Visual Studio Code**.
+- **Education**:
+  - **Technician in Multimedia Design and Integration**
+  - Currently studying **Multiplatform Application Development (DAM)**
+
+- **Technologies I'm learning**:
+  - Programming languages: **Java**, **HTML/CSS**, **SQL**
+
 
 </br>
 
 ## Tech Stack
 
-  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
   ![Flask](https://img.shields.io/badge/flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white)
   ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
   ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
