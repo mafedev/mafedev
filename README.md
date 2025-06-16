@@ -9,10 +9,6 @@ I'm currently learning and exploring the world of programming.
   - **Technician in Multimedia Design and Integration**
   - Currently studying **Multiplatform Application Development (DAM)**
 
-- **Technologies I'm learning**:
-  - Programming languages: **Java**, **HTML/CSS**, **SQL**
-
-
 </br>
 
 ## Tech Stack
