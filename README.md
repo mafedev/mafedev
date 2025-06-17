@@ -13,16 +13,9 @@ I'm currently learning and exploring the world of programming.
 
 ## Tech Stack
 
-  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-  ![Flask](https://img.shields.io/badge/flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white)
-  ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+  [![My Skills](https://skillicons.dev/icons?i=java,c,python,flask,html,css,js&theme=dark)](https://skillicons.dev)</br>
+  [![My Skills](https://skillicons.dev/icons?i=mysql,mongo&theme=dark)](https://skillicons.dev)</br>
+  [![My Skills](https://skillicons.dev/icons?i=git,github&theme=dark)](https://skillicons.dev)</br>
   
 </br>
 
@@ -46,8 +39,10 @@ I'm currently learning and exploring the world of programming.
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" align="left" />
   </a>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mafedev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" align="right"  />
+  <img  align="right"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=mafedev&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
 </div>
+
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
