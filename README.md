@@ -2,7 +2,7 @@
 
 <img align="right" height="185" src="https://user-images.githubusercontent.com/74038190/216649421-9e9387cc-b2d3-4375-97e2-f4c43373d3ae.gif" />
 
-Hi, I'm Fernanda, a student of **Multiplatform Application Development (DAM)**.  
+I'm Fernanda, a student of **Multiplatform Application Development (DAM)**.  
 I'm currently learning and exploring the world of programming.
 
 - **Education**:
@@ -21,15 +21,15 @@ I'm currently learning and exploring the world of programming.
 
 </br>
 
-## Tech Stack
+## Technology Stack and Programming Skills
 
 <div>
+  <!-- Lenguajes de programación -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,c,python,flask,html,css,js&theme=dark" />
-    <br>
-    <img src="https://skillicons.dev/icons?i=mysql,mongo&theme=dark" />
-    <br>
-    <img src="https://skillicons.dev/icons?i=git,github&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=java,python,c,js&theme=dark&perline=4" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,flask,spring&theme=dark&perline=5" />
+    <img src="https://skillicons.dev/icons?i=mysql,mongo&theme=dark&perline=2" />
+    <img src="https://skillicons.dev/icons?i=git,github&theme=dark&perline=2" />
   </a>
 </div>
 </br>
