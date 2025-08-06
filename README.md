@@ -23,16 +23,14 @@ I'm currently learning and exploring the world of programming.
 
 ## Technology Stack and Programming Skills
 
-<div>
-  <!-- Lenguajes de programación -->
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,c,js&theme=dark&perline=4" />
-    <img src="https://skillicons.dev/icons?i=html,css,js,flask,spring&theme=dark&perline=5" />
-    <img src="https://skillicons.dev/icons?i=mysql,mongo&theme=dark&perline=2" />
-    <img src="https://skillicons.dev/icons?i=git,github&theme=dark&perline=2" />
-  </a>
-</div>
-</br>
+| Programming Languages | Web Development |
+|-----------------------|-----------------|
+| [![Languages](https://skillicons.dev/icons?i=java,python,kotlin,js,c&theme=dark)](https://skillicons.dev) | [![Web](https://skillicons.dev/icons?i=spring,flask,html,css,js,bootstrap&theme=dark)](https://skillicons.dev) |
+
+| Databases | Tools & Version Control |
+|-----------|--------------------------|
+| [![Databases](https://skillicons.dev/icons?i=mysql,mongo&theme=dark)](https://skillicons.dev) | [![Tools](https://skillicons.dev/icons?i=git,github,docker,postman,netlify,firebase&theme=dark)](https://skillicons.dev) |
+
 
 ## Design & Multimedia
 
