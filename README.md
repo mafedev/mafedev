@@ -10,14 +10,9 @@ I'm currently learning and exploring the world of programming.
   - Currently studying **Multiplatform Application Development (DAM)**
 
 </br>
-<div>
-  <a href="mailto:mfernanda.infor@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/tu-usuario-linkedin" target="_blank" rel="noopener noreferrer" style="margin-left:10px;">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" />
-  </a>
-</div>
+
+[![Linkedin](https://skillicons.dev/icons?i=linkedin&theme=dark)](enlace-perfil)
+[![Email](https://skillicons.dev/icons?i=gmail&theme=dark)](mailto:mfernanda.infor@gmail.com) mfernanda.infor@gmail.com
 
 </br>
 
@@ -34,7 +29,7 @@ I'm currently learning and exploring the world of programming.
 
 ## Design & Multimedia
 
-<div align="center">
+<div>
   <img src="https://img.shields.io/badge/Adobe%20Illustrator-%23FF0000.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" />
   <img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white" />
   <img src="https://img.shields.io/badge/Adobe%20Photoshop-%23FFFF00.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" />
