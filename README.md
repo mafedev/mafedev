@@ -11,18 +11,19 @@ I'm currently learning and exploring the world of programming.
 
 </br>
 
-[![Linkedin](https://skillicons.dev/icons?i=linkedin&theme=dark)](enlace-perfil)
-[![Email](https://skillicons.dev/icons?i=gmail&theme=dark)](mailto:mfernanda.infor@gmail.com) mfernanda.infor@gmail.com
+### **Contacto**  
+[![Gmail](https://skillicons.dev/icons?i=gmail&theme=dark) mfernanda.infor@gmail.com](mailto:mfernanda.infor@gmail.com)
+
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=dark) MiPerfil](https://www.linkedin.com/in/tuusuario/)  
 
 </br>
 
 ## Technology Stack and Programming Skills
 
-| Programming Languages | Web Development |
-|-----------------------|-----------------|
-| [![Languages](https://skillicons.dev/icons?i=java,python,kotlin,js,c&theme=dark)](https://skillicons.dev) | [![Web](https://skillicons.dev/icons?i=spring,flask,html,css,js,bootstrap&theme=dark)](https://skillicons.dev) |
+[![Languages](https://skillicons.dev/icons?i=java,python,kotlin,c&theme=dark)](https://skillicons.dev)
 
-| Databases | Tools & Version Control |
+[![Web](https://skillicons.dev/icons?i=spring,flask,html,css,js,bootstrap&theme=dark)](https://skillicons.dev)
+| Databases | Tools |
 |-----------|--------------------------|
 | [![Databases](https://skillicons.dev/icons?i=mysql,mongo&theme=dark)](https://skillicons.dev) | [![Tools](https://skillicons.dev/icons?i=git,github,docker,postman,netlify,firebase&theme=dark)](https://skillicons.dev) |
 
