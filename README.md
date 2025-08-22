@@ -6,15 +6,13 @@ I'm Fernanda, a student of **Multiplatform Application Development (DAM)**.
 I'm currently learning and exploring the world of programming.
 
 - **Education**:
-  - **Technician in Multimedia Design and Integration**
   - Currently studying **Multiplatform Application Development (DAM)**
+  - **Technician in Multimedia Design and Integration**
 
-</br>
-
-### **Contacto**  
-[![Gmail](https://skillicons.dev/icons?i=gmail&theme=dark) mfernanda.infor@gmail.com](mailto:mfernanda.infor@gmail.com)
-
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=dark) MiPerfil](https://www.linkedin.com/in/tuusuario/)  
+### **Contacto**
+|[![Gmail](https://skillicons.dev/icons?i=gmail&theme=dark)](mailto:mfernanda.infor@gmail.com)|[![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/tuusuario/)|
+|---|---|
+|[mfernanda.infor@gmail.com](mailto:mfernanda.infor@gmail.com)|Mi perfil|
 
 </br>
 
