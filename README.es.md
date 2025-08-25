@@ -7,33 +7,31 @@
 
 <img align="right" height="185" src="https://user-images.githubusercontent.com/74038190/216649421-9e9387cc-b2d3-4375-97e2-f4c43373d3ae.gif" />
 
-I'm Fernanda, a student of **Multiplatform Application Development (DAM)**.  
-I'm currently learning and exploring the world of programming.
+Soy Fernanda, estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)**.  
+Actualmente estoy aprendiendo y explorando el mundo de la programación.
 
-- **Education**:
-  - Currently studying **Multiplatform Application Development (DAM)**
-  - **Technician in Multimedia Design and Integration**
+- **Educación**:
+  - Actualmente estudiando **Desarrollo de Aplicaciones Multiplataforma (DAM)**
+  - **Técnico en Diseño e Integración Multimedia**
 
-### **Contact**
+### **Contacto**
 
 - ✉️ **Email** : [fernanda.mogollon.contact@gmail.com](mailto:fernanda.mogollon.contact@gmail.com)
 
-- 💼 **LinkedIn** : &nbsp;&nbsp;[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/usuario](https://www.linkedin.com/in/fernanda-mogollon-21a542380/)/)
-
+- 💼 **LinkedIn** : &nbsp;&nbsp;[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernanda-mogollon-21a542380/)
 
 </br>
 
-## Technology Stack and Programming Skills
+## Stack Tecnológico y Habilidades de Programación
 
 [![Languages](https://skillicons.dev/icons?i=java,python,kotlin,c&theme=dark)](https://skillicons.dev)
 
 [![Web](https://skillicons.dev/icons?i=spring,flask,html,css,js,bootstrap&theme=dark)](https://skillicons.dev)
-| Databases | Tools |
-|-----------|--------------------------|
+| Bases de Datos | Herramientas |
+|----------------|--------------|
 | [![Databases](https://skillicons.dev/icons?i=mysql,mongo&theme=dark)](https://skillicons.dev) | [![Tools](https://skillicons.dev/icons?i=git,github,docker,postman,netlify,firebase&theme=dark)](https://skillicons.dev) |
 
-
-## Design & Multimedia
+## Diseño y Multimedia
 
 <div>
   <img src="https://img.shields.io/badge/Adobe%20Illustrator-%23FF0000.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" />
@@ -45,13 +43,13 @@ I'm currently learning and exploring the world of programming.
 </div>
 </br>
 
-## Stats
+## Estadísticas
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mafedev&layout=compact" alt="Top Languages" />
 </div>
 
-<!--GitHub Snake Animation-->
+<!--Animación de Serpiente de GitHub-->
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
@@ -59,4 +57,3 @@ I'm currently learning and exploring the world of programming.
     <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
   </picture>
 </div>
-
