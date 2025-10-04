@@ -11,7 +11,7 @@
 
 <img align="right" height="185" src="https://user-images.githubusercontent.com/74038190/216649421-9e9387cc-b2d3-4375-97e2-f4c43373d3ae.gif" />
 
-I'm Fernanda, a student of **Multiplatform Application Development (DAM)**.  
+I'm Fernanda, a final-year student of Multiplatform Application Development (DAM).
 I'm currently learning and exploring the world of programming.
 
 - **Education**:
