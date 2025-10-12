@@ -22,7 +22,7 @@ I'm currently learning and exploring the world of programming.
 
 - ✉️ **Email** : [fernanda.mogollon.contact@gmail.com](mailto:fernanda.mogollon.contact@gmail.com)
 
-- 💼 **LinkedIn** : &nbsp;&nbsp;[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/usuario](https://www.linkedin.com/in/fernanda-mogollon-21a542380/)/)
+- 💼 **LinkedIn** : &nbsp;&nbsp;[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernanda-mogollon-21a542380/)
 
 
 </br>
