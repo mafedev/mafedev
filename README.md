@@ -11,7 +11,7 @@
 
 <img align="right" height="185" src="https://user-images.githubusercontent.com/74038190/216649421-9e9387cc-b2d3-4375-97e2-f4c43373d3ae.gif" />
 
-I'm Fernanda, a final-year student of Multiplatform Application Development (DAM).
+I'm Fernanda, a second-year student of Multiplatform Application Development (DAM).
 I'm currently learning and exploring the world of programming.
 
 - **Education**:
@@ -29,12 +29,17 @@ I'm currently learning and exploring the world of programming.
 
 ## Technology Stack and Programming Skills
 
-[![Languages](https://skillicons.dev/icons?i=java,python,kotlin,c&theme=dark)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=java,spring,python,flask,c&theme=dark)](https://skillicons.dev) 
 
-[![Web](https://skillicons.dev/icons?i=spring,flask,html,css,js,bootstrap&theme=dark)](https://skillicons.dev)
+[![Web](https://skillicons.dev/icons?i=html,css,js,bootstrap,wordpress&theme=dark)](https://skillicons.dev)
+
+[![Mobile](https://skillicons.dev/icons?i=androidstudio,kotlin,flutter,dart&theme=dark)](https://skillicons.dev) 
+
 | Databases | Tools |
-|-----------|--------------------------|
-| [![Databases](https://skillicons.dev/icons?i=mysql,mongo&theme=dark)](https://skillicons.dev) | [![Tools](https://skillicons.dev/icons?i=git,github,docker,postman,netlify,firebase&theme=dark)](https://skillicons.dev) |
+|------------|-------|
+| [![Databases](https://skillicons.dev/icons?i=mysql,postgres,mongo&theme=dark)](https://skillicons.dev) | [![Tools](https://skillicons.dev/icons?i=git,github,docker,postman,firebase,netlify&theme=dark)](https://skillicons.dev) |
+
+
 
 
 ## Design & Multimedia
