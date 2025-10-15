@@ -37,22 +37,14 @@ I'm currently learning and exploring the world of programming.
 
 | Databases | Tools |
 |------------|-------|
-| [![Databases](https://skillicons.dev/icons?i=mysql,postgres,mongo&theme=dark)](https://skillicons.dev) | [![Tools](https://skillicons.dev/icons?i=git,github,docker,postman,firebase,netlify&theme=dark)](https://skillicons.dev) |
+| [![Databases](https://skillicons.dev/icons?i=mysql,postgres,mongo&theme=dark)](https://skillicons.dev) | [![Tools](https://skillicons.dev/icons?i=git,github,docker,postman,firebase,netlify,notion&theme=dark)](https://skillicons.dev) |
 
 
 
 
 ## Design & Multimedia
 
-<div>
-  <img src="https://img.shields.io/badge/Adobe%20Illustrator-%23FF0000.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adobe%20Photoshop-%23FFFF00.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-%2300FF00.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" />
-  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF" />
-</div>
-</br>
+[![Design](https://skillicons.dev/icons?i=ai,pr,ps&theme=dark)](https://skillicons.dev)   <img src="https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF" />
 
 ## Stats
 
