@@ -10,9 +10,6 @@
 Soy Fernanda, estudiante de último año de **Desarrollo de Aplicaciones Multiplataforma (DAM)**.  
 Actualmente estoy aprendiendo y explorando el mundo de la programación.
 
-- **Educación**:
-  - Actualmente estudiando **Desarrollo de Aplicaciones Multiplataforma (DAM)**
-  - **Técnico en Diseño e Integración Multimedia**
 
 ### **Contacto**
 
@@ -24,24 +21,20 @@ Actualmente estoy aprendiendo y explorando el mundo de la programación.
 
 ## Stack Tecnológico y Habilidades de Programación
 
-[![Languages](https://skillicons.dev/icons?i=java,python,kotlin,c&theme=dark)](https://skillicons.dev)
 
-[![Web](https://skillicons.dev/icons?i=spring,flask,html,css,js,bootstrap&theme=dark)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=java,spring,python,flask,c&theme=dark)](https://skillicons.dev) 
+
+[![Web](https://skillicons.dev/icons?i=html,css,js,bootstrap,wordpress&theme=dark)](https://skillicons.dev)
+
+[![Mobile](https://skillicons.dev/icons?i=androidstudio,kotlin,flutter,dart&theme=dark)](https://skillicons.dev) 
+
 | Bases de Datos | Herramientas |
 |----------------|--------------|
-| [![Databases](https://skillicons.dev/icons?i=mysql,mongo&theme=dark)](https://skillicons.dev) | [![Tools](https://skillicons.dev/icons?i=git,github,docker,postman,netlify,firebase&theme=dark)](https://skillicons.dev) |
+| [![Databases](https://skillicons.dev/icons?i=mysql,postgres,mongo&theme=dark)](https://skillicons.dev) | [![Tools](https://skillicons.dev/icons?i=git,github,docker,postman,netlify,firebase&theme=dark)](https://skillicons.dev) |
 
 ## Diseño y Multimedia
+[![Design](https://skillicons.dev/icons?i=ai,pr,ps&theme=dark)](https://skillicons.dev)
 
-<div>
-  <img src="https://img.shields.io/badge/Adobe%20Illustrator-%23FF0000.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adobe%20Photoshop-%23FFFF00.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-%2300FF00.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" />
-  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF" />
-</div>
-</br>
 
 ## Estadísticas
 
