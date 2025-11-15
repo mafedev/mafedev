@@ -14,10 +14,6 @@
 I'm Fernanda, a second-year student of Multiplatform Application Development (DAM).
 I'm currently learning and exploring the world of programming.
 
-- **Education**:
-  - Currently studying **Multiplatform Application Development (DAM)**
-  - **Technician in Multimedia Design and Integration**
-
 ### **Contact**
 
 - ✉️ **Email** : [fernanda.mogollon.contact@gmail.com](mailto:fernanda.mogollon.contact@gmail.com)
@@ -44,7 +40,7 @@ I'm currently learning and exploring the world of programming.
 
 ## Design & Multimedia
 
-[![Design](https://skillicons.dev/icons?i=ai,pr,ps&theme=dark)](https://skillicons.dev)   <img src="https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF" />
+[![Design](https://skillicons.dev/icons?i=ai,pr,ps&theme=dark)](https://skillicons.dev)
 
 ## Stats
 
