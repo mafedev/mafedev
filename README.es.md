@@ -3,13 +3,13 @@
   <a href="README.es.md">🇪🇸 Español</a>
 </p>
 
-# Hi there! <img src="https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85.png" width="30px">
+# Hola, soy Fernanda! <img src="https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85.png" width="30px">
 
 <img align="right" height="185" src="https://user-images.githubusercontent.com/74038190/216649421-9e9387cc-b2d3-4375-97e2-f4c43373d3ae.gif" />
 
-Soy Fernanda, estudiante de último año de **Desarrollo de Aplicaciones Multiplataforma (DAM)**.  
-Actualmente estoy aprendiendo y explorando el mundo de la programación.
+Estudiante de último año de Desarrollo de Aplicaciones Multiplataforma (DAM), muy curiosa e interesada en el desarrollo móvil y el backend.
 
+Actualmente estoy puliendo mis conocimientos y explorando nuevas herramientas para seguir creciendo como desarrolladora.
 
 ### **Contacto**
 
