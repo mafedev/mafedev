@@ -7,12 +7,13 @@
   </a>
 </p>
 
-# Hi there! <img src="https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85.png" width="30px">
+# Hi, I'm Fernanda! <img src="https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85.png" width="30px">
 
 <img align="right" height="185" src="https://user-images.githubusercontent.com/74038190/216649421-9e9387cc-b2d3-4375-97e2-f4c43373d3ae.gif" />
 
-I'm Fernanda, a second-year student of Multiplatform Application Development (DAM).
-I'm currently learning and exploring the world of programming.
+I'm a final-year Multiplatform Application Development (DAM) student, very curious and interested in mobile and backend development.
+
+I'm currently refining my skills and exploring new tools to continue growing as a developer.
 
 ### **Contact**
 
