@@ -45,9 +45,6 @@ I'm currently refining my skills and exploring new tools to continue growing as 
 
 ## Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mafedev&layout=compact" alt="Top Languages" />
-</div>
 
 <!--GitHub Snake Animation-->
 <div align="center">
