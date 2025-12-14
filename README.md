@@ -24,7 +24,8 @@ I'm currently refining my skills and exploring new tools to continue growing as 
 </br>
 
 <p align="right">
-<img id="preview" src="https://komarev.com/ghpvc/?username=drknzz&color=red">
+  <img id="preview" src="https://komarev.com/ghpvc/?username=mafedev&color=red">
+</p>
 
 </br>
 
