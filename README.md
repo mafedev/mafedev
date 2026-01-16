@@ -27,8 +27,6 @@ I'm currently refining my skills and exploring new tools to continue growing as 
   <img id="preview" src="https://komarev.com/ghpvc/?username=mafedev&color=red">
 </p>
 
-</br>
-
 ## Technology Stack and Programming Skills
 
 [![Languages](https://skillicons.dev/icons?i=java,spring,python,flask,c&theme=dark)](https://skillicons.dev) 
@@ -39,7 +37,7 @@ I'm currently refining my skills and exploring new tools to continue growing as 
 
 | Databases | Tools |
 |------------|-------|
-| [![Databases](https://skillicons.dev/icons?i=mysql,postgres,mongo&theme=dark)](https://skillicons.dev) | [![Tools](https://skillicons.dev/icons?i=git,github,docker,postman,firebase,netlify,notion&theme=dark)](https://skillicons.dev) |
+| [![Databases](https://skillicons.dev/icons?i=mysql,postgres,mongo&theme=dark)](https://skillicons.dev) | [![Tools](https://skillicons.dev/icons?i=git,github,docker,postman,netlify,notion&theme=dark)](https://skillicons.dev) |
 
 
 
