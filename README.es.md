@@ -1,6 +1,6 @@
 <p align="right">
-  <a href="README.md">🇬🇧 English</a> |
-  <a href="README.es.md">🇪🇸 Español</a>
+  <a href="README.md"> English </a> |
+  <a href="README.es.md"> Español </a>
 </p>
 
 # Hola, soy Fernanda! <img src="https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85.png" width="30px">
@@ -30,17 +30,13 @@ Actualmente estoy puliendo mis conocimientos y explorando nuevas herramientas pa
 
 | Bases de Datos | Herramientas |
 |----------------|--------------|
-| [![Databases](https://skillicons.dev/icons?i=mysql,postgres,mongo&theme=dark)](https://skillicons.dev) | [![Tools](https://skillicons.dev/icons?i=git,github,docker,postman,netlify,firebase&theme=dark)](https://skillicons.dev) |
+| [![Databases](https://skillicons.dev/icons?i=mysql,postgres,mongo&theme=dark)](https://skillicons.dev) | [![Tools](https://skillicons.dev/icons?i=git,github,docker,postman,netlify,notion&theme=dark)](https://skillicons.dev) |
 
 ## Diseño y Multimedia
 [![Design](https://skillicons.dev/icons?i=ai,pr,ps&theme=dark)](https://skillicons.dev)
 
 
 ## Estadísticas
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mafedev&layout=compact" alt="Top Languages" />
-</div>
 
 <!--Animación de Serpiente de GitHub-->
 <div align="center">
