@@ -1,10 +1,6 @@
 <p align="right">
-  <a href="README.md">
-    <img src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/gb.svg" width="20" alt="English"/> English
-  </a> |
-  <a href="README.es.md">
-    <img src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/es.svg" width="20" alt="Español"/> Español
-  </a>
+  <a href="README.md"> English </a> |
+  <a href="README.es.md"> Español </a>
 </p>
 
 # Hi, I'm Fernanda! <img src="https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85.png" width="30px">
