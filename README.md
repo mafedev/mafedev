@@ -15,7 +15,7 @@ I'm currently refining my skills and exploring new tools to continue growing as 
 
 - ✉️ **Email** : [fernanda.mogollon.contact@gmail.com](mailto:fernanda.mogollon.contact@gmail.com)
 
-- 💼 **LinkedIn** : &nbsp;&nbsp;[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernanda-mogollon-21a542380/)
+- 💼 **LinkedIn** : &nbsp;&nbsp;[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernanda-mogollón-21a542380/)
 
 </br>
 
