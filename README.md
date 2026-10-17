@@ -19,10 +19,6 @@ I'm currently refining my skills and exploring new tools to continue growing as 
 
 </br>
 
-<p align="right">
-  <img id="preview" src="https://komarev.com/ghpvc/?username=mafedev&color=red">
-</p>
-
 ## Technology Stack and Programming Skills
 
 [![Languages](https://skillicons.dev/icons?i=java,spring,python,flask,c&theme=dark)](https://skillicons.dev) 
