@@ -7,7 +7,9 @@
 
 <img align="right" height="185" src="https://user-images.githubusercontent.com/74038190/216649421-9e9387cc-b2d3-4375-97e2-f4c43373d3ae.gif" />
 
-Estudiante de último año de Desarrollo de Aplicaciones Multiplataforma (DAM), muy curiosa e interesada en el desarrollo móvil y el backend.
+Soy desarrolladora de software, con formación en Desarrollo de Aplicaciones Multiplataforma (DAM) y actualmente estoy cursando una especialización en Ciberseguridad.
+
+Tengo especial interés en el desarrollo de aplicaciones móviles y backend, y sigo ampliando mis conocimientos en ciberseguridad y buenas prácticas para desarrollar software seguro.
 
 Actualmente estoy puliendo mis conocimientos y explorando nuevas herramientas para seguir creciendo como desarrolladora.
 
