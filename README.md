@@ -7,8 +7,9 @@
 
 <img align="right" height="185" src="https://user-images.githubusercontent.com/74038190/216649421-9e9387cc-b2d3-4375-97e2-f4c43373d3ae.gif" />
 
-I'm a final-year Multiplatform Application Development (DAM) student, very curious and interested in mobile and backend development.
+I'm a Software Developer with a background in Multiplatform Application Development (DAM), currently pursuing a specialization in Cybersecurity.
 
+I'm particularly interested in mobile and backend development, while also expanding my knowledge of cybersecurity and secure software practices.
 I'm currently refining my skills and exploring new tools to continue growing as a developer.
 
 ### **Contact**
